@@ -6,9 +6,7 @@ React app to split bills, track shared expenses in a group of friends easily and
 
 ### Live Preview
 
-✅[Live Preview](https://eatbills.netlify.app/)
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/52559136-91f2-4539-9f89-8e4ebae380b7/deploy-status)](https://app.netlify.com/sites/eatbills/deploys)
+✅[Live Preview](https://eat-split.vercel.app/)
 
 ## Overview
 
